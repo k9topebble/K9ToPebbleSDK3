@@ -1,0 +1,24 @@
+{
+  "uuid": "c4447eb9-5f01-4f3f-92b8-d2ea8f209830",
+  "shortName": "K9ToPebble",
+  "longName": "K9ToPebbleSDK2",
+  "companyName": "K9ToPebble",
+  "versionCode": 2,
+  "versionLabel": "2.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+       "media": [
+        {
+          "type": "png",
+          "name": "MENU",
+          "file": "images/k9_to_pebble_watch2.png",
+		  "menuIcon": true
+        }
+	]
+  }
+}
